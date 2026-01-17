@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Für dich 🌷</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Georgia', serif;
+      background: linear-gradient(180deg, #f7f3f0, #ffffff);
+      color: #333;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+      padding: 60px 24px;
+    }
+    h1 {
+      text-align: center;
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+    }
+    .subtitle {
+      text-align: center;
+      font-style: italic;
+      color: #777;
+      margin-bottom: 40px;
+    }
+    .card {
+      background: #fff;
+      border-radius: 16px;
+      padding: 40px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+      margin-bottom: 32px;
+    }
+    p {
+      line-height: 1.7;
+      font-size: 1.05rem;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    li {
+      margin-bottom: 10px;
+    }
+    .footer {
+      text-align: center;
+      margin-top: 40px;
+      font-style: italic;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Für dich 🌷</h1>
+    <div class="subtitle">Ein kleiner Ort im Internet, nur für dich.</div>
+
+    <div class="card">
+      <p>Hey du,</p>
+      <p>
+        ich wollte dir schon lange etwas schenken, das nicht einfach wieder verschwindet.
+        Etwas, das bleibt.
+      </p>
+      <p>
+        Auch wenn ich deine Adresse nicht habe, wollte ich dir trotzdem etwas geben –
+        also habe ich diesen kleinen virtuellen Ort für dich gemacht.
+      </p>
+      <p>
+        Du bist jemand, der mehr Licht in den Alltag bringt, oft ohne es selbst zu merken.
+        Deine Art, deine Gedanken, dein Lachen – all das bedeutet mir wirklich viel.
+      </p>
+      <p>
+        Dieser Brief ist kein großes Geschenk.
+        Aber er ist ehrlich.
+        Und er ist nur für dich.
+      </p>
+      <p>Schön, dass es dich gibt 🤍</p>
+    </div>
+
+    <div class="card">
+      <h2>Warum du besonders bist</h2>
+      <ul>
+        <li>Weil du Dinge fühlst, die andere übersehen</li>
+        <li>Weil Gespräche mit dir leicht sind</li>
+        <li>Weil du echt bist, auch wenn es nicht immer leicht ist</li>
+        <li>Weil du du bist</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>Ein Gedanke zum Schluss</h2>
+      <p>
+        Das hier ist kein Ende,
+        sondern einfach ein kleiner Moment.
+      </p>
+      <p>
+        Danke, dass du ihn dir nimmst.
+      </p>
+    </div>
+
+    <div class="footer">– Dein Name</div>
+  </div>
+</body>
+</html>
